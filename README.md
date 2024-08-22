@@ -120,7 +120,7 @@ This documentation outlines the features and functionalities for an Inventory Ma
   - Functional testing for all app features.
   - Security testing to ensure data protection.
 - **Deployment**:
-  - Deployment of both User and Admin Apps on appropriate platforms (iOS, Android, Web).
+  - Deployment of both User and Admin Apps on Android.
   - Configuration of notification services.
 
 ---
